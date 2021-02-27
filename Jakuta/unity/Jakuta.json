@@ -1616,6 +1616,156 @@
                                 "Textures": {}
                             }
                         }
+                    },
+                    "hair_extract2": {
+                        "Materials": {
+                            "hair_extract2_lambert_Tra": {
+                                "Material Type": "Tra",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    199.00001525878907,
+                                    199.00001525878907,
+                                    199.00001525878907
+                                ],
+                                "Ambient Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Specular Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Specular": 1.0,
+                                "Glossiness": 0.5,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Jakuta.fbm/hair_extract2_lambert_Tra_Diffuse.png",
+                                        "Strength": 80.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Jakuta.fbm/hair_extract2_lambert_Tra_Normal.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/Jakuta/hair_extract2/hair_extract2/hair_extract2_lambert_Tra/hair_extract2_lambert_Tra_HDRP.png"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "bun_ball_ref1": {
+                        "Materials": {
+                            "bun_ball_ref1_lambert_Tra": {
+                                "Material Type": "Tra",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Specular Color": [
+                                    127.5,
+                                    127.5,
+                                    127.5
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Specular": 0.0,
+                                "Glossiness": 0.0,
+                                "Textures": {
+                                    "Base Color": {
+                                        "Texture Path": "./Jakuta.fbm/bun_ball_ref1_lambert_Tra_Diffuse.png",
+                                        "Strength": 80.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Jakuta.fbm/bun_ball_ref1_lambert_Tra_Normal.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "./textures/Jakuta/bun_ball_ref1/bun_ball_ref1/bun_ball_ref1_lambert_Tra/bun_ball_ref1_lambert_Tra_ao.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/Jakuta/bun_ball_ref1/bun_ball_ref1/bun_ball_ref1_lambert_Tra/bun_ball_ref1_lambert_Tra_HDRP.png"
+                                    }
+                                }
+                            }
+                        }
                     }
                 }
             }
